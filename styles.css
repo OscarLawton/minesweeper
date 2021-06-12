@@ -1,0 +1,21 @@
+body{
+ color: white
+}
+
+#canvas{
+    background-color:white;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+
+}
+
+.bloc{
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    float: left;
+    font-size: 10px;
+    position: absolute;
+    
+}
